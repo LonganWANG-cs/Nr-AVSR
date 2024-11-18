@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__
+.ipynb_checkpoints
+.vscode
+debug.py
+.idea/*
+transformers
+wandb/
+log/
+*.log
+outputs/
+data/
+mydata/
+models/
+peft/
+models/
+results/
